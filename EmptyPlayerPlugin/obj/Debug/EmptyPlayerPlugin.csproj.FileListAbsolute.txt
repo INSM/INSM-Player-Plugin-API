@@ -1,0 +1,7 @@
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\obj\Debug\EmptyPlayerPlugin.csprojResolveAssemblyReference.cache
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\bin\Debug\EmptyPlayerPlugin.dll
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\bin\Debug\EmptyPlayerPlugin.pdb
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\bin\Debug\INSM.Player.Plugin.Framework.v2.dll
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\obj\Debug\EmptyPlayerPlugin.dll
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\obj\Debug\EmptyPlayerPlugin.pdb
+C:\Projects\Github\INSM-Player-Plugin-API\EmptyPlayerPlugin\bin\Debug\start.xml

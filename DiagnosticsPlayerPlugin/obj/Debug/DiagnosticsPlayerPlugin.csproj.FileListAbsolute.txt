@@ -1,0 +1,7 @@
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\bin\Debug\DiagnosticsPlayerPlugin.dll
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\bin\Debug\DiagnosticsPlayerPlugin.pdb
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\bin\Debug\INSM.Player.Plugin.Framework.v2.dll
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\obj\Debug\DiagnosticsPlayerPlugin.csprojResolveAssemblyReference.cache
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\obj\Debug\DiagnosticsPlayerPlugin.dll
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\obj\Debug\DiagnosticsPlayerPlugin.pdb
+C:\Projects\Github\INSM-Player-Plugin-API\DiagnosticsPlayerPlugin\bin\Debug\start.xml

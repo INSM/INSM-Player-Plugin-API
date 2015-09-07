@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <header>
+  </header>
+  <body>
+    <dataset id="Manifest">
+      <!-- Platform settings -->
+      <item id="StartFile">EmptyPlayerPlugin.dll</item>
+      <item id="FileType">Plugin</item>
+      <item id="APIVersion">v2</item>
+
+      <item id="PluginName">EmptyExample</item>
+      <item id="DisplayName">Empty example plugin</item>
+      <item id="Description">Empty example plugin</item>
+    </dataset>
+  </body>
+</input>

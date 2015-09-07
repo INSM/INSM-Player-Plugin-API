@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <header>
+    <dataset id="Content">
+      <!-- Content dataset settings -->
+      <item type="text" id="IntervalSeconds">10</item>
+    </dataset>
+  </header>
+  <body>
+    <dataset id="Manifest">
+      <!-- Platform settings -->
+      <item id="StartFile">DiagnosticsPlayerPlugin.dll</item>
+      <item id="FileType">Plugin</item>
+      <item id="APIVersion">v2</item>
+
+      <item id="PluginName">Diagnostics example</item>
+      <item id="DisplayName">Diagnostics example plugin</item>
+      <item id="Description">Diagnostics example plugin</item>
+    </dataset>
+  </body>
+</input>
